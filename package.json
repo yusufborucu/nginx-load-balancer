@@ -1,0 +1,23 @@
+{
+  "name": "nginx-load-balancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufborucu/nginx-load-balancer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufborucu/nginx-load-balancer/issues"
+  },
+  "homepage": "https://github.com/yusufborucu/nginx-load-balancer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
